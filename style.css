@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+     
+    background-size: 100%;
+}
+h1{
+    text-align: center;
+
+}
+h4{
+    text-align: center;
+    
+}
+.overview{
+    
+    background-image:url("https://lojasaraiva.vteximg.com.br/arquivos/m2-2019-1302_tv_loja-star-wars-generica-mb.jpg?v=637244638731930000");
+}
